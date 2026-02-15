@@ -1,0 +1,8 @@
+Parity and integration of new Rust AI-Bolit implementation
+Parity and integration of new real-time implementation
+GitLab CI/CD (GitLab, buildsystem, Bugbot, code coverage)
+Imunify.Patch Customer API and webhooks
+Improving PHP-Emulator using LLM advices
+IDS: Coraza-Based WAF Perf Improvements
+Imunify Portal
+Imunify360 feature acceptance list

@@ -40,6 +40,11 @@ def _get_drive_service():
     return build("drive", "v3", credentials=_get_creds())
 
 
+def get_drive_service():
+    """Return authenticated Google Drive API v3 service (for use by other modules)."""
+    return _get_drive_service()
+
+
 def _find_folder_by_name(service, folder_name: str, parent_id: str) -> str | None:
     """Return folder id if a folder with the given name exists under parent_id, else None."""
     try:
@@ -104,9 +109,3 @@ def ensure_demo_folder_on_drive() -> str:
     DEMO_FOLDER_ID = leaf_id
     DEMO_FOLDER_PATH = f"My Drive/Imunify/Demo/{folder_name_1}/{folder_name_2}"
     return DEMO_FOLDER_PATH
-
-
-if __name__ == "__main__":
-    ensure_demo_folder_on_drive()
-    print("Demo folder path:", DEMO_FOLDER_PATH)
-    print("Demo folder id:  ", DEMO_FOLDER_ID)

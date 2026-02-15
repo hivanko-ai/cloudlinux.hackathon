@@ -1,0 +1,305 @@
+Cl
+Cloudlinux
+Search
+Ask
+Updates
+Knowledge Management
+FAVORITE DOCS
+Agile meetings
+Support tickets escalation
+GitLab Remote Course notes
+Demos archive
+CHANNELS
+My private channel
+🏆 Human Resources
+👋 Cloudlinux Handbook
+📈 Finance
+Agile Сommunity of Practice
+Archive
+CLN
+CLOS
+Compliance
+Data Analytics
+ELS
+Engineering Department
+From the CEO
+Global Customer Experience Team (Support)
+Hosting Marketing
+Imunify
+Imunify360 Meetings
+Imunify360 weekly status report
+Demos
+Product
+Policies
+Draft den
+Demos archive
+Onboarding
+Imunify Feature Specs
+Incidents handling
+Internal Documentation
+Teams
+Infrastructure
+Internal: MiracleLinux (CyberTrust)
+IoT baby monitors market research for US Cyber Trust Mark
+Live-patching Solutions
+Meeting Notes
+Meetings
+Operations
+Questions & Answers
+Release Engineering
+Reports
+Sales & Marketing
+Security
+TuxCare
+Create a channel
+Ask Insights
+Import
+Templates
+Shared with me
+Archive
+Imunify
+/
+Demos
+Template attached
+Share
+Helena Ivanko edited 4 months ago
+Verify this collection
+Edit layout
+Related docs
+Click here to start writing
+﻿
+
+All docs
+1
+Imunify.Patch
+Apr 25, 2025
+Malware
+Vi
+Vitali Falileev
+av-8.5.0
+https://drive.google.com/file/d/18_0d4lqkENRzhZdczgEKlo3bIqhOi_WD/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-31753
+Beta release
+2
+Antivirus calculating diff for uncleaned file
+Apr 25, 2025
+Malware
+Dm
+Dmitriy Leonov
+av-8.5.0
+https://drive.google.com/file/d/10xgIC3_zuthd45rWtKXP2tjW8V2VKn-6/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-33503
+Beta release
+3
+Imunify360 weekly reports for CVE and Modsec performance monitoring
+Apr 25, 2025
+WPT
+Ka
+Kamil Dabrowski
+Mi
+Michael Chernyavsky
+ 
+https://drive.google.com/file/d/1py-Nn1koGaUwY9e7ALeBWCwJ28H7f4vR/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/WPT-1260 https://cloudlinux.atlassian.net/browse/WPT-1257
+In progress
+4
+Support app-specific WAF ruleset in Coraza
+Apr 25, 2025
+IDS/IPS
+Mi
+Miroslav Kovac
+ 
+https://drive.google.com/file/d/1tScrW9F_iF2YF9mfM0AKT5yMOOzYlTXi/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-31837
+In progress
+5
+Saltstack deployment for Imunify products
+Apr 25, 2025
+Core
+Am
+Amit Levy
+any
+https://drive.google.com/file/d/1Lw-HzuQnQOt9mLwsw7EnUxqYpN9Qd9VC/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-32388
+In progress
+6
+Shell scanner
+May 30, 2025
+CloudAV
+VN
+V Naveen
+ 
+https://drive.google.com/file/d/1PPdeX6faYLJnYoKf8uTmjbstS83yujWE/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-32260
+Ready
+7
+Imunify Email
+May 30, 2025
+Imunify.Email
+Me
+Mehmet Suslu
+ 
+https://drive.google.com/file/d/1TGcjv2VQyJYX2HwCKraMo3JZsaL3NNKV/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/IE-1538
+In progress
+8
+Wildcard domain whitelisting + Toggle splash-screen logo on/off
+May 30, 2025
+IDS/IPS
+Mi
+Miroslav Kovac
+webshield-1.34.0
+https://drive.google.com/file/d/1m5QzWLEtoGK2L_usTzKeQ8kZYDqiFOR2/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-32039 https://cloudlinux.atlassian.net/browse/DEF-33860
+Ready
+9
+MRS: Directory listing upload
+May 30, 2025
+Malware
+Dm
+Dmitriy Leonov
+av-8.5.0
+https://drive.google.com/file/d/15LH6zQ2UC3fkYjXP5PECwDsNnA_jyJVT/view?usp=drive_link
+10
+Weekly Report for Disabled Rules
+May 30, 2025
+WPT
+Mi
+Michael Chernyavsky
+ 
+https://drive.google.com/file/d/1tnedx_wBBukAl9s0BethmtWtQ7naoqjR/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/WPT-1354
+In progress
+11
+Plesk Notifications
+May 30, 2025
+Core
+Da
+Danil Khabibullin
+Plesk Extension 8.4.0
+https://drive.google.com/file/d/152oM42LWQE0Xjx8Fg3_SbUubIhr_40yN/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-31715
+Ready
+12
+Modsec ruleset update management
+May 30, 2025
+Core
+Pa
+Pavel Zaikin
+ids-8.6.0
+https://drive.google.com/file/d/1qwrcMefoJZgonUJjVV_hEjCbAkT8dFkT/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-33328
+Ready
+13
+Improved Phish Spam Detection
+Jun 27, 2025
+CloudAV
+Ni
+Nitin Venkatesh
+N/A
+https://drive.google.com/file/d/1ynfJGZs8yJWAE7b4vqZKuKADrQxtC7R1/view?t=1
+14
+Google Secret Manager (GSM) integration
+Jun 27, 2025
+Patchman
+Ma
+Marcin Kurczewski
+ 
+https://drive.google.com/file/d/18Rj92UOjkqP1Nxru6Q9X-AL8CznXSVuS/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/PATCHMAN-108
+In progress
+15
+Imunify360 Detect admin tools
+Jun 27, 2025
+Malware
+Vi
+Vitali Falileev
+av-8.5.2 aibolit-32.5.2
+https://drive.google.com/file/d/1HvFseGUSKa4NPH9gv77soJOX8moeyRYS/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-28838
+Ready
+16
+Imunify Security WordPress plugin v2
+Jun 27, 2025
+MyImunify
+Ma
+Martin Krcho
+2
+https://drive.google.com/file/d/14EGZeaDohNWjqO5c36nAYbOu3ioBK8gA/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-31596
+Ready
+17
+Weekly Reports for Disabled Rules
+Jun 27, 2025
+WPT
+Mi
+Michael Chernyavsky
+ 
+https://drive.google.com/file/d/1uDaV9AjV1Rh1CK1_t3DBhdEork4ATsl-/view?usp=sharing
+https://cloudlinux.atlassian.net/browse/WPT-1261
+Ready
+18
+Persistent Storage for Coraza WAF
+Jun 27, 2025
+IDS/IPS
+Mi
+Miroslav Kovac
+ 
+https://drive.google.com/file/d/1biCriHdqCK2kGdbLvgZF5MwkDeICDhJk/view
+https://cloudlinux.atlassian.net/browse/DEF-33883
+Ready
+19
+WAF Ruleset Dashboard
+Jul 25, 2025
+WPT
+Ka
+Kamil Dabrowski
+ 
+https://drive.google.com/file/d/1iHjmPw6LBAkQqQ5cDZ_Gcd692vFoDZrj/view?usp=sharing
+https://cloudlinux.atlassian.net/browse/WPT-1474
+In progress
+20
+Framework for Performance Measurements
+Jul 25, 2025
+IDS/IPS
+Ig
+Igor Savenko
+ 
+https://drive.google.com/file/d/1iWdoJ83GJtrPqG0B8WM-l7VU1q_1NpDW/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-33777
+In progress
+21
+Cloudways Test Environment
+Jul 25, 2025
+Imunify.Email
+Me
+Mehmet Suslu
+ 
+https://drive.google.com/file/d/1z6Uq8DrD-IfYcfvB_ZLGjLBcv8ZdZCrh/view?usp=drive_link
+https://cloudlinux.atlassian.net/jira/software/c/projects/IE/boards/231?assignee=609e67648cbda700685d1867&selecthttps://cloudlinux.atlassian.net/browse/IE-1370
+In progress
+22
+Switch to alt-python-internal, introduction imunify-release package
+Jul 25, 2025
+Core
+Pa
+Pavel Zaikin
+venv-2.6.0
+https://drive.google.com/file/d/1VMz3LhuOaHyhg9YoL8vpD4E25x3Dy8IR/view?usp=drive_link
+Beta release
+23
+OPSWAT
+Jul 25, 2025
+CloudAV
+Is
+Ishkhan Nazaryan
+ 
+https://drive.google.com/file/d/1_uW83TvMbHI2qc1QCetHUkgVmuDXT8NB/view?usp=drive_link
+https://cloudlinux.atlassian.net/browse/DEF-33123
+Ready
+New doc
+All docs
+DEFAULT
+Latest first
+Create view
+Saved views
